@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Maulana Azad National Institute of Technology
+title: OWASP Maulana Azad National Institute of Technology, Bhopal 
 tags: example-tag
 region: Asia
 meetup-group:
