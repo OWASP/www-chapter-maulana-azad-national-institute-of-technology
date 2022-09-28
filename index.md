@@ -8,7 +8,7 @@ meetup-group:
 
 ---
 
-<div style='color:red;'>
+<!-- <div style='color:red;'>
 
 This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
 
@@ -24,10 +24,17 @@ This is an example of a Project or Chapter Page.  Please change these items to i
 <li>meetup-group: This is the name of your meetup group, usually in the form of OWASP-chapter.  By putting these details here, the section below labeled 'Next Meeting/Event' will get automatically populated with your upcoming meetup events.</li>
 </ul>
 
-</div>
+</div> -->
 
 ## Welcome
-Include some information here about your chapter
+
+Welcome to OWASP chapter of MANIT, Bhopal. We have started a fresh new chapter in MANIT to improve the awareness about software and cyber security. 
+
+We want to start with the basics of cyber security and then move on to the advanced topics. We will be conducting workshops, seminars and meetups to spread the awareness about cyber security. We will also be conducting CTFs and other events to test the skills of the participants. 
+
+We will be conducting regular meetups and call for volunteers to help us in smooth conducting of the events.
+
+If you are interested in joining us, please contact any of the chapter leaders. We will be happy to have you on board.
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
