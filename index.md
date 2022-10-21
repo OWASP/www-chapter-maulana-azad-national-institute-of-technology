@@ -4,6 +4,8 @@ layout: col-sidebar
 title: OWASP Maulana Azad National Institute of Technology, Bhopal 
 tags: example-tag
 region: Asia
+country: India
+postal-code: 462003
 meetup-group:
 
 ---
