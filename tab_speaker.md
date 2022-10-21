@@ -3,7 +3,7 @@ title: Speaker
 layout:  null
 tab: true
 order: 1
-tags: example-tag
+tags: owasp-manit
 ---
 
 ## Speaker

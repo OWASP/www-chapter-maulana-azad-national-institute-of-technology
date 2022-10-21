@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Maulana Azad National Institute of Technology, Bhopal 
-tags: example-tag
+tags: owasp-manit owasp-nitb bhopal manit nitb
 region: Asia
 country: India
 postal-code: 462003
