@@ -32,3 +32,6 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
 
+1. Students Meetup (December 10, 2022)
+  We will be organizing a meetup on December 10, starting from 10.00 AM at [NTB](https://goo.gl/maps/eyv66XSDvxJF7Gdp8).
+
