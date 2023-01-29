@@ -6,7 +6,7 @@ tags: owasp-manit owasp-nitb bhopal manit nitb
 region: Asia
 country: India
 postal-code: 462003
-meetup-group:
+meetup-group: owasp-maulana-azad-national-institute-of-technology-chapter
 
 ---
 
