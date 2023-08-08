@@ -1,5 +1,5 @@
 ### Maulana Azad National Institute of Technology Information
-<img src="https://github.com/OWASP/www-chapter-maulana-azad-national-institute-of-technology/assets/81341961/760ebba1-f7d4-4b75-996d-86c8cc85b60f"><br>
+<img src="https://i.ibb.co/wrfMtWm/logo-bg-less.png" alt="logo-bg-less" border="0"><br>
 <a href="manit.ac.in"> MANIT Bhopal </a>
 
 ### Social Links
