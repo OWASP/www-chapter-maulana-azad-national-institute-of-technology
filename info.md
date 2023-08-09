@@ -1,5 +1,6 @@
 ### Maulana Azad National Institute of Technology Information
-<img src="https://i.ibb.co/wrfMtWm/logo-bg-less.png" alt="logo-bg-less" border="0"><br>
+![logo](/assets/images/logo(bg_less).png)
+<br>
 <a href="manit.ac.in"> MANIT Bhopal </a>
 
 ### Social Links
