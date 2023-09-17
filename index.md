@@ -33,11 +33,5 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 {% include chapter_events.html group=page.meetup-group %}
 
-## Previous Meeting/Event
-
-**Event:** Recruitement for Chapter Members<br>
-**Date:** 2023-05-27<br>
-**Place:** [NTB, MANIT Bhopal](https://goo.gl/maps/eyv66XSDvxJF7Gdp8)
-
 <!-- For next event add new line -->
 
