@@ -11,7 +11,7 @@ tags: owasp-manit
 
 | Title | Description | Volunteers Involved |
 | --- | --- | --- |
-| [PUFIN](https://github.com/darkoid/pufin) | An open-source application designed to monitor and maintain the integrity of files within a specified folder. | [Durgesh Shah](mailto:durgesh.shah@owasp.org) |
+| [Pufin](https://github.com/darkoid/pufin) | An open-source application designed to monitor and maintain the integrity of files within a specified folder. | [Durgesh Shah](mailto:durgesh.shah@owasp.org) |
 | | | |
 
 <!--
